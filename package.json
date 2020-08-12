@@ -1,0 +1,20 @@
+{
+  "name": "tttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint a.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.9",
+    "eslint-plugin-jest": "^23.20.0",
+    "jest": "^26.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
